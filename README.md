@@ -1,4 +1,4 @@
-# Tarea_Optimizaci-n
+# Tarea_Optimizacion
 Tarea 2 del ramo MA3701-2 Primavera 2019
 
 Archivo .py posee el codigo para resolver el problema de optimización
